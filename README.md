@@ -12,19 +12,27 @@ Results & Analysis: Performance plots and research papers documenting the findin
 
 **Repository Structure:**
 
-├── 3D model/                  # CAD models for the BnP system
+├── 3D model/                     # CAD models for the BnP system
 
-├── controller_simulink_files/  # Simulink models for controller implementation
+├── controller_simulink_files/    # Simulink models for controller implementation
 
-├── controller_plots/           # Performance plots of controllers
-├── image_data/                 # Image datasets used for tracking and analysis
-├── papers/                     # Research papers related to the project
-├── results/                    # Experimental results and findings
-├── video_data/                 # Recorded test videos of the system
-├── .gitignore                  # Git ignore file
-├── bnp.py                      # Main script for the BnP system
-├── bnp_controller.py           # Controller implementation in Python
-└── README.md                   # Project documentation
+├── controller_plots/             # Performance plots of controllers
+
+├── image_data/                   # Image datasets used for tracking and analysis
+
+├── papers/                       # Research papers related to the project
+
+├── results/                      # Experimental results and findings
+
+├── video_data/                   # Recorded test videos of the system
+
+├── .gitignore                    # Git ignore file
+
+├── bnp.py                        # Main script for the BnP system
+
+├── bnp_controller.py             # Controller implementation in Python
+
+└── README.md                     # Project documentation
 
 **Getting Started**
 
@@ -38,7 +46,7 @@ Arduino IDE (for hardware implementation)
 
 **Installation:**
 1. Clone the repository:
-    git clone https://github.com/suryakantabehera13/BnP-Balancing-System.git
+    git clone https://github.com/suryakantabehera13/Ball-on-plate-balancing-system-using-computer-visison/tree/master
 2. Install dependencies:
     pip install -r requirements.txt
 3. Run the main script:
