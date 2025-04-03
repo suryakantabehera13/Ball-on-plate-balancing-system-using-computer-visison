@@ -13,7 +13,9 @@ Results & Analysis: Performance plots and research papers documenting the findin
 **Repository Structure:**
 
 ├── 3D model/                  # CAD models for the BnP system
+
 ├── controller_simulink_files/  # Simulink models for controller implementation
+
 ├── controller_plots/           # Performance plots of controllers
 ├── image_data/                 # Image datasets used for tracking and analysis
 ├── papers/                     # Research papers related to the project
